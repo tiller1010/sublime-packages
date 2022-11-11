@@ -4,13 +4,23 @@
 	[
 		"Babel",
 		"Color Highlight",
+		"EditorConfig",
+		"GraphQL",
 		"Grunt",
 		"Handlebars",
 		"Laravel Blade Highlighter",
 		"LESS",
+		"Liquid",
+		"MarkdownPreview",
 		"Package Control",
-		"SCSS",
+		"PHP Companion",
+		"Phpcs",
+		"Sass",
 		"SilverStripe",
-		"Terminal"
-	]
+		"Terminal",
+		"Vue Syntax Highlight"
+	],
+	"in_process_packages":
+	[
+	],
 }

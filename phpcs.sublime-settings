@@ -1,0 +1,18 @@
+{
+	"php_cs_fixer_executable_path": "C:/Users/tille/AppData/Roaming/Composer/vendor/bin/tools/php-cs-fixer/vendor/bin/php-cs-fixer.bat",
+    "phpcs_executable_path": "C:/Users/tille/AppData/Roaming/Composer/vendor/bin/phpcs.bat",
+	"phpcbf_executable_path": "C:/Users/tille/AppData/Roaming/Composer/vendor/bin/phpcbf.bat",
+	"phpcs_command_on_save": false,
+    "phpcbf_additional_args": {
+        "--standard": "PSR12",
+        "-n": ""
+    },
+    "php_cs_fixer_additional_args": {
+        "--standard": "PSR12",
+        "-n": ""
+    },
+    "php_cs_fixer_additional_args": {
+        "--standard": "PSR12",
+        "-n": ""
+    }
+}

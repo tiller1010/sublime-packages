@@ -1,8 +1,9 @@
 {
-	"font_size": 10,
+	"theme": "Adaptive.sublime-theme",
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
 	],
-	"theme": "Default.sublime-theme"
+	"font_size": 8,
+	"index_exclude_gitignore": false,
 }
