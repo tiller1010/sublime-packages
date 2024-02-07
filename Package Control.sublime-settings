@@ -1,26 +1,29 @@
 {
-	"bootstrapped": true,
-	"installed_packages":
-	[
-		"Babel",
-		"Color Highlight",
-		"EditorConfig",
-		"GraphQL",
-		"Grunt",
-		"Handlebars",
-		"Laravel Blade Highlighter",
-		"LESS",
-		"Liquid",
-		"MarkdownPreview",
-		"Package Control",
-		"PHP Companion",
-		"Phpcs",
-		"Sass",
-		"SilverStripe",
-		"Terminal",
-		"Vue Syntax Highlight"
-	],
-	"in_process_packages":
-	[
-	],
+    "bootstrapped": true,
+    "installed_packages":
+    [
+        "Babel",
+        "Babel Snippets",
+        "Color Highlight",
+        "Dartlight",
+        "EditorConfig",
+        "GraphQL",
+        "Grunt",
+        "Handlebars",
+        "JSON-Template",
+        "Laravel Blade Highlighter",
+        "Less",
+        "Liquid",
+        "MarkdownPreview",
+        "Package Control",
+        "PHP Companion",
+        "Phpcs",
+        "Sass",
+        "SilverStripe",
+        "Terminal",
+        "Vue Syntax Highlight"
+    ],
+    "in_process_packages":
+    [
+    ],
 }
