@@ -6,4 +6,5 @@
 	],
 	"font_size": 8,
 	"index_exclude_gitignore": false,
+	"index_files": true,
 }

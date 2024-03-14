@@ -17,11 +17,12 @@
         "MarkdownPreview",
         "Package Control",
         "PHP Companion",
+        "PHP CS Fixer",
         "Phpcs",
         "Sass",
         "SilverStripe",
         "Terminal",
-        "Vue Syntax Highlight"
+        "Vue Syntax Highlight",
     ],
     "in_process_packages":
     [
