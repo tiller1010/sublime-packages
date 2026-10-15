@@ -11,7 +11,8 @@
         "Grunt",
         "Handlebars",
         "JSON-Template",
-        "Laravel Blade Highlighter",
+        "Jump Along Indent",
+        "Laravel Blade",
         "Less",
         "Liquid",
         "MarkdownPreview",
@@ -22,7 +23,7 @@
         "Sass",
         "SilverStripe",
         "Terminal",
-        "Vue Syntax Highlight",
+        "Vue",
     ],
     "in_process_packages":
     [
